@@ -1,7 +1,7 @@
 import os
 import discord
 
-TOKEN = os.environ['TOKEN']
+TOKEN = os.environ["TOKEN"]
 
 bot = discord.Bot()
 
