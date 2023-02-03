@@ -2,6 +2,8 @@ import os
 import discord
 import math
 
+print("Loading bot...")
+
 TOKEN = os.environ["TOKEN"]
 
 bot = discord.Bot()
